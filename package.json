@@ -22,7 +22,8 @@
     "url": "https://github.com/leiz95/URLBitbucket-to-object/issues"
   },
   "dependencies": {
-    "is-url": "^1.1.0"
+    "is-url": "^1.1.0",
+    "urlgithub-to-object": "^1.0.0"
   },
   "devDependencies": {
     "mocha": "^1.19.0"
