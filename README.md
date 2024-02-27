@@ -8,7 +8,7 @@ There's also a GitHub equivalent to this library: [urlgithub-to-object](https://
 ## Installation
 
 ```sh
-npm install URLBitbucket-to-object --save
+npm install urlbitbucket-to-object --save
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install URLBitbucket-to-object --save
 Pass whatever flavor of bitbucket URL you like:
 
 ```js
-var bb = require('URLBitbucket-to-object')
+var bb = require('urlbitbucket-to-object')
 
 bb('example/business')
 bb('bitbucket:example/business')
