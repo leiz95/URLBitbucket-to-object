@@ -1,6 +1,6 @@
 {
   "name": "urlbitbucket-to-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract user, repo, and other interesting properties from Bitbucket URLs",
   "main": "index.js",
   "scripts": {
